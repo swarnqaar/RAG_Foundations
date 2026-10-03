@@ -18,4 +18,4 @@
 ==> |8-10| + |7-2| = 7 
 --> here the differences b/w apple and cake are 7/20 , this difference is called cosine differences. 
 
-## note --> in real embedding the size of array is 784 , means there are 784 feature in each object. "every index of the array represents different features"
+## note --> in real embedding the size of array is 784 , means there are 784 feature in each data/the data is trained on 784 features. "every index of the array represents different features"
